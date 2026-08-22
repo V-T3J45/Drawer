@@ -1,5 +1,5 @@
 
-### AutoCAD Procedure
+*AutoCAD Procedure*
 
 1. First, set the drawing units and limits according to the given dimensions.
 
@@ -25,7 +25,7 @@
 
 12. Finally, add all the required dimensions and centre lines to complete the drawing.
 
-### Commands Used
+*Commands Used*
 
 LINE, CIRCLE, ARC, OFFSET, FILLET, TRIM, EXTEND, MIRROR and DIMENSION.
 
