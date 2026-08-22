@@ -1,7 +1,16 @@
 **Post-Lab**
+______________________________
+1. Abbreviate the standard's and its applications by BIN, BS, ANSI, DIN, ISO.
 
-After completing the drawing, check your work against this list before submitting.
+BIS → Indian engineering drawing standards
+BS → British engineering drawing standards
+ANSI → American drafting standards
+DIN → German drafting standards
+ISO → International drafting standards
 
-- All three views are aligned correctly with each other
-- Hidden lines are dashed, visible lines are continuous
-- Dimensions (if required) follow standard placement rules
+For AutoCAD, these standards provide the rules that determine how the drawing should look and communicate design information
+
+______________________________
+
+2.List the required modifications to be done in DIMSTYLE toolbar in AutoCAD?
+
