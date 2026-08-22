@@ -1,5 +1,5 @@
 
-*AutoCAD Procedure*
+*AutoCAD Procedure - Question 2 LOCK*
 
  First, set the drawing units and limits according to the given dimensions.
 
